@@ -23,7 +23,7 @@ public class LoginPage extends BorderPane {
 
         setPadding(new Insets(20));
 
-        Label title = new Label("Quiz Platform - Login");
+        Label title = new Label("Quiz Platform - Logout");
         title.getStyleClass().add("heading");
 
         TextField usernameField = new TextField();
