@@ -8,8 +8,8 @@ public class AIQuizGenerator {
     private static final String GEMINI_URL =
         "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-pro:generateContent";
 
-    private static final String API_KEY = "AIzaSyBSLLAvggwgrhMthDjHmLPmIL8s6zAQuZA";
-                                           
+    private static final String API_KEY = "AIzaSyCU8yCDluRSkJzCksVIvlB8arPuPbtEaIA";
+                                                                                       
     private final OkHttpClient client = new OkHttpClient();
 
     // TEMPORARY placeholder — prevents QuizService errors
